@@ -1,0 +1,18 @@
+{
+  "name": "create-jolie-microservices",
+  "version": "1.0.1",
+  "description": "Create Jolie Microservice with no build configuration",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": "https://github.com/jolie-storm/create-jolie-ms.git",
+  "author": "bmaschio <bmaschio77@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "4.1.1",
+    "cross-spawn": "^7.0.3",
+    "envinfo": "7.7.3",
+    "fs-extra": "9.0.1",
+    "prompts": "2.4.0"
+  }
+}
